@@ -1,58 +1,58 @@
 var friends = [ {
-    "name" : "Josh",
-    "photo" : "http://www.mens-hairstylists.com/wp-content/uploads/2015/10/stylish-haircuts-for-men.jpg",
+    "name" : "Pat",
+    "photo" : "https://vignette.wikia.nocookie.net/twobestfriendsplay/images/1/12/Pat_Real_Life.png/revision/latest?cb=20121122043521",
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
-    "name" : "Sherri",
-    "photo" : "http://science-all.com/images/wallpapers/girl-pictures/girl-pictures-23.jpg",
+    "name" : "Matt",
+    "photo" : "https://vignette.wikia.nocookie.net/twobestfriendsplay/images/3/37/Matt_Kaiju_Combat_Ice_Cream_Sandwich.png/revision/latest?cb=20130512074222",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
-    "name" : "Kirill",
-    "photo" : "http://images.zap2it.com/assets/p9257057_n160758_cc_v4_aa/guys-with-kids.jpg",
+    "name" : "Woolie",
+    "photo" : "https://vignette.wikia.nocookie.net/twobestfriendsplay/images/1/1e/Woolie.png/revision/latest?cb=20121122052916",
     "scores" : [5,5,5,5,5,5,5,5,5,5]
 }, {
-    "name" : "Amy",
-    "photo" : "http://www.tenerewilliams.com/wp-content/uploads/2013/02/Naomi-Grossman-headshot.jpg",
+    "name" : "Waluigi",
+    "photo" : "https://www.themarysue.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-13-at-2.37.42-PM.jpg",
     "scores" : [5,2,4,3,3,2,1,3,3,4]
 }, {
-    "name" : "Gavin",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/236x/e6/58/db/e658dbeb3518edeab6a19516b8146137.jpg",
+    "name" : "Punished Woolie",
+    "photo" : "https://i.imgur.com/n9O2B4B.jpg?1",
     "scores" : [4,1,5,3,4,5,2,3,4,5]
 }, {
-    "name" : "Kayla",
-    "photo" : "http://cdn3.thr.com/sites/default/files/2013/02/emma_roberts.jpg",
+    "name" : "Zuckerburger",
+    "photo" : "https://i.kym-cdn.com/photos/images/original/001/361/364/224.jpg",
     "scores" : [4,1,5,3,4,5,2,3,4,5]
 }, {
-    "name" : "PJ",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/564x/02/72/d2/0272d2536de31958c6dcb3bb1b447586.jpg",
+    "name" : "Guile",
+    "photo" : "https://vignette.wikia.nocookie.net/streetfighter/images/f/ff/Guile_C_USA.png/revision/latest?cb=20110831111152",
     "scores" : [3,4,2,4,4,1,1,2,3,4]
 }, {
-    "name" : "Janie",
-    "photo" : "http://kelseyedwardsphoto.com/images/gallery/Sports/74_088_FAVS_MAY_0511.jpg",
+    "name" : "Geese",
+    "photo" : "https://www.fightersgeneration.com/nz7/char/geese-howard-kof14-portrait.jpg",
     "scores" : [5,4,2,5,1,1,2,1,3,5]
 }, {
-    "name" : "Andre",
-    "photo" : "http://1.bp.blogspot.com/-6uw9bbJmPs4/VpISNZB5wOI/AAAAAAAAAag/PAQeixYQ4g8/s1600/Varun%2BDhawan%2BLatest%2BPic.jpg",
+    "name" : "Eric Andre",
+    "photo" : "https://i.ytimg.com/vi/8X7c_LzZShM/maxresdefault.jpg",
     "scores" : [1,5,1,3,5,1,4,3,2,1]
 }, {
-    "name" : "Krissy",
-    "photo" : "http://1.bp.blogspot.com/-FMhfNM7lFG4/Ud8XSJsqgLI/AAAAAAAAAIs/uyMyWoJUEk0/s1600/women-medium-wavy-hairstyles.jpg",
+    "name" : "Hannibal",
+    "photo" : "http://pixel.nymag.com/imgs/daily/vulture/2015/07/08/08-hannibal-buress-portrait.w529.h352.jpg",
     "scores" : [1,3,3,1,2,4,4,1,3,1]
 }, {
-    "name" : "Zob",
-    "photo" : "http://d236bkdxj385sg.cloudfront.net/wp-content/uploads/2012/02/brian-white.jpg",
+    "name" : "Speedwagon",
+    "photo" : "https://vignette.wikia.nocookie.net/jjba/images/5/52/Speedwagon_%28Anime%29.png/revision/latest?cb=20131226020833",
     "scores" : [5,2,4,3,3,2,1,3,3,4]
 }, {
-    "name" : "Danielle",
-    "photo" : "http://benhairstyle.com/wp-content/uploads/2014/10/beautiful_hairstyles_for_young_women.jpg",
+    "name" : "Costanza",
+    "photo" : "https://ih1.redbubble.net/image.55114593.6097/pp,550x550.u1.jpg",
     "scores" : [1,1,1,1,1,1,1,1,1,1]
 }, {
-    "name" : "Charu",
-    "photo" : "https://s-media-cache-ak0.pinimg.com/736x/09/0f/e7/090fe7f53967e0a0da51f12fa147e01d.jpg",
+    "name" : "J.J",
+    "photo" : "https://vignette.wikia.nocookie.net/villains/images/3/35/Jk-simmons-emgn-13-1024x486.jpg/revision/latest?cb=20180221020633",
     "scores" : [2,3,5,5,3,5,2,1,3,2]
 }, {
-    "name" : "Omar",
-    "photo" : "http://harvardsol.com/wp-content/uploads/2016/07/impressive-new-haircuts-for-young-men-all-inspirational-article.jpg",
+    "name" : "John",
+    "photo" : "https://cdn.sescoops.com/wp-content/uploads/2018/01/john-cena.jpg",
     "scores" : [2,3,5,5,3,5,2,1,3,2]
 }];
 
